@@ -4,5 +4,8 @@ function arsen(){
 }
 
 function arsen2(){
-    return 'this is committed';
+    return 'this is committed';}
+    
+function uncommitted(){
+    console.log('this func is only staged')
 }
